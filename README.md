@@ -1,5 +1,10 @@
-## Hi there 👋
+Thanks for visiting my br0k3ncode GitHub profile.  I thought this was a funny username because when I started that's how all of my attempts at scripting and coding felt.
 
+- I'm currently working on bash scripts for a work project.
+- I'm currently learning networking engineering, bash, python, ansible, Red Hat, and wanting to get into learning about docker container deployment.
+- I'm looking to collaborate on any of the topics listed in my learning topics above to imporve my skills.
+- Ask me about electronics in general as I have 20+ years experience working on complex electronics and networking.  Also, ask me about bash as I have a moderate understanding.
+- Fun fact: I was a RADAR, navigation aid, and communications electronics technician and system admin for 22 years before I moved solely into IT.
 <!--
 **br0k3ncode/br0k3ncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
